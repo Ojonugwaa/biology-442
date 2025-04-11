@@ -1,4 +1,5 @@
 
+
 def calculate_real_size(microscope_size, magnification_factor=100):
     
     return microscope_size / magnification_factor
